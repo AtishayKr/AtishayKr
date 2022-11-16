@@ -1,7 +1,7 @@
-<img width="100%" src="https://user-images.githubusercontent.com/106793557/202106746-1fa761a1-fd8b-4879-8191-016f56d6687f.jpeg"/>
+<img width="100%" src="https://user-images.githubusercontent.com/106793557/202112069-e56fc388-df88-44f5-ba20-afa41a8ca61f.jpeg"/>
 <h1 align="center">Hi 🐱‍👤, I'm Atishay Kumar</h1>
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/106793557/202109004-7cbc0846-eaad-4d75-be4e-15b1aaa7fb2c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AtishayKr&label=Profile%20views&color=0e75b6&style=flat" alt="AtishayKr" /> </p>
@@ -22,4 +22,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtishayKr&show_icons=true&locale=en" alt="AtishayKr" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AtishayKr&" alt="AtishayKr" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtishayKr&" alt="AtishayKr" /></p>
+<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=ATISHAY_kr&show_icons=true&locale=en&layout=compact" alt="AtishayKr" /></p>
