@@ -23,4 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtishayKr&show_icons=true&locale=en" alt="AtishayKr" /></p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AtishayKr&" alt="AtishayKr" /></p>
-<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=ATISHAY_kr&show_icons=true&locale=en&layout=compact" alt="AtishayKr" /></p>
+<p><img align="right" src="https://leetcode-stats-six.vercel.app/?username=AtishayKr&show_icons=true&locale=en&layout=compact" alt="AtishayKr" /></p>
